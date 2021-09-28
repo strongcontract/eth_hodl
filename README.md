@@ -11,7 +11,7 @@
 - Get rewarded while protecting your Ethereum.
 
 ## How to use
-0. Download and install android app
+0. [Download App] and install android app
 1. Select the deposit period.
 2. Enter the deposit amount.
 3. Send Ethereum to the contract.
@@ -37,3 +37,4 @@
    [Aergo]: <https://www.aergo.io/>
    [Samsung Blockchain Wallet]: <https://galaxy.store/samsungbl>
    [Samsung Blockchain Keystore SDK]: <https://developer.samsung.com/blockchain/keystore>
+   [Download App]: <https://raw.githubusercontent.com/strongcontract/eth_hodl/main/files/app/eth-hodl-release.apk>
