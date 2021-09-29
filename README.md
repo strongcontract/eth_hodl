@@ -1,6 +1,10 @@
 # Hodl !
 **Long-term HODL DApp**
+
 **Don't lose your Ethereum any more!**
+
+<img src="https://raw.githubusercontent.com/strongcontract/eth_hodl/main/files/images/samsung-blockchain-logo.png" width="250px" alt="samsung blockchain wallet logo"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/strongcontract/eth_hodl/main/files/images/aergo-logo@2x.png" width="250px" alt="aergo logo"></img>
 
 ## What dApp is this?
 - This dApp protects your Ethereum
