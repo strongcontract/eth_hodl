@@ -12,11 +12,13 @@
 
 ## How to use
 0. [Download App] and install android app
-1. Select the deposit period.
-2. Enter the deposit amount.
-3. Send Ethereum to the contract.
-4. HODL for a period.
-5. Receive Ethereum as a reward.
+1. Change Samsung blockchain Keystore to developer mode ([How to change][Samsung Blockchain Keystore Developer Mode]), before app registration
+3. Run this app
+4. Select the deposit period.
+5. Enter the deposit amount.
+6. Send Ethereum to the contract.
+7. HODL for a period.
+8. Receive Ethereum as a reward.
 
 ## Technology stack
 - ETHEREUM BLOCKCHAIN
@@ -37,4 +39,5 @@
    [Aergo]: <https://www.aergo.io/>
    [Samsung Blockchain Wallet]: <https://galaxy.store/samsungbl>
    [Samsung Blockchain Keystore SDK]: <https://developer.samsung.com/blockchain/keystore>
+   [Samsung Blockchain Keystore Developer Mode]: <https://developer.samsung.com/blockchain/keystore/programing-guide/getting-started.html>
    [Download App]: <https://raw.githubusercontent.com/strongcontract/eth_hodl/main/files/app/eth-hodl-release.apk>
