@@ -38,8 +38,7 @@ contract Hodl {
     hodler.month = month;
     hodler.exclusion = _accumulateExclusion[month];
     hodler.isClosed = false;
-    // hodler.lockEndTimestamp = block.timestamp + month * 30 days;
-    hodler.lockEndTimestamp = block.timestamp + month * 300 seconds;
+    hodler.lockEndTimestamp = block.timestamp + month * 30 days;
 
     _hodlers[msg.sender].push(hodler);
     _accumulateHodlCoin[month] += msg.value;
