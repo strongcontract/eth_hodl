@@ -6,6 +6,9 @@
 <img src="https://raw.githubusercontent.com/strongcontract/eth_hodl/main/files/images/samsung-blockchain-logo.png" width="250px" alt="samsung blockchain wallet logo"></img>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/strongcontract/eth_hodl/main/files/images/aergo-logo@2x.png" width="250px" alt="aergo logo"></img>
 
+## ETH Contract address
+- [0x4b7ba53E9D9aa2f9941dAf0557535b26c5052886] - Hodl contract
+
 ## What dApp is this?
 - This dApp protects your Ethereum
 - The service is provided using the Samsung blockchain wallet.
@@ -45,3 +48,4 @@
    [Samsung Blockchain Keystore SDK]: <https://developer.samsung.com/blockchain/keystore>
    [Samsung Blockchain Keystore Developer Mode]: <https://developer.samsung.com/blockchain/keystore/programing-guide/getting-started.html>
    [Download App]: <https://raw.githubusercontent.com/strongcontract/eth_hodl/main/files/app/eth-hodl-release.apk>
+   [0x4b7ba53E9D9aa2f9941dAf0557535b26c5052886]: <https://etherscan.io/address/0x4b7ba53E9D9aa2f9941dAf0557535b26c5052886>
